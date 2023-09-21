@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\csharp-prep\\Prep3\\Prep3.csproj": {}
+    "C:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\csharp-prep\\Prep3\\Prep3.csproj": {}
   },
   "projects": {
-    "c:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\csharp-prep\\Prep3\\Prep3.csproj": {
+    "C:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\csharp-prep\\Prep3\\Prep3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\csharp-prep\\Prep3\\Prep3.csproj",
+        "projectUniqueName": "C:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\csharp-prep\\Prep3\\Prep3.csproj",
         "projectName": "Prep3",
-        "projectPath": "c:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\csharp-prep\\Prep3\\Prep3.csproj",
+        "projectPath": "C:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\csharp-prep\\Prep3\\Prep3.csproj",
         "packagesPath": "C:\\Users\\micro\\.nuget\\packages\\",
-        "outputPath": "c:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\csharp-prep\\Prep3\\obj\\",
+        "outputPath": "C:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\csharp-prep\\Prep3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micro\\AppData\\Roaming\\NuGet\\NuGet.Config"
