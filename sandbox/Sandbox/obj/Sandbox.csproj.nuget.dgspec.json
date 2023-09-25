@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\sandbox\\Sandbox\\Sandbox.csproj": {}
+    "c:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\sandbox\\Sandbox\\Sandbox.csproj": {}
   },
   "projects": {
-    "C:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\sandbox\\Sandbox\\Sandbox.csproj": {
+    "c:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\sandbox\\Sandbox\\Sandbox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\sandbox\\Sandbox\\Sandbox.csproj",
+        "projectUniqueName": "c:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\sandbox\\Sandbox\\Sandbox.csproj",
         "projectName": "Sandbox",
-        "projectPath": "C:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\sandbox\\Sandbox\\Sandbox.csproj",
+        "projectPath": "c:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\sandbox\\Sandbox\\Sandbox.csproj",
         "packagesPath": "C:\\Users\\micro\\.nuget\\packages\\",
-        "outputPath": "C:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\sandbox\\Sandbox\\obj\\",
+        "outputPath": "c:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\sandbox\\Sandbox\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micro\\AppData\\Roaming\\NuGet\\NuGet.Config"

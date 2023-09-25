@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\prepare\\Learning02\\Learning02.csproj": {}
+    "c:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\prepare\\Learning02\\Learning02.csproj": {}
   },
   "projects": {
-    "C:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\prepare\\Learning02\\Learning02.csproj": {
+    "c:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\prepare\\Learning02\\Learning02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\prepare\\Learning02\\Learning02.csproj",
+        "projectUniqueName": "c:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\prepare\\Learning02\\Learning02.csproj",
         "projectName": "Learning02",
-        "projectPath": "C:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\prepare\\Learning02\\Learning02.csproj",
+        "projectPath": "c:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\prepare\\Learning02\\Learning02.csproj",
         "packagesPath": "C:\\Users\\micro\\.nuget\\packages\\",
-        "outputPath": "C:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\prepare\\Learning02\\obj\\",
+        "outputPath": "c:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\prepare\\Learning02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micro\\AppData\\Roaming\\NuGet\\NuGet.Config"
