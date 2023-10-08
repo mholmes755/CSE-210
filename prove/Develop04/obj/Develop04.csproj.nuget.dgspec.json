@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\prove\\Develop04\\Develop04.csproj": {}
+    "C:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\prove\\Develop04\\Develop04.csproj": {}
   },
   "projects": {
-    "c:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\prove\\Develop04\\Develop04.csproj": {
+    "C:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\prove\\Develop04\\Develop04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\prove\\Develop04\\Develop04.csproj",
+        "projectUniqueName": "C:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\prove\\Develop04\\Develop04.csproj",
         "projectName": "Develop04",
-        "projectPath": "c:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\prove\\Develop04\\Develop04.csproj",
+        "projectPath": "C:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\prove\\Develop04\\Develop04.csproj",
         "packagesPath": "C:\\Users\\micro\\.nuget\\packages\\",
-        "outputPath": "c:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\prove\\Develop04\\obj\\",
+        "outputPath": "C:\\BYU-I Fall 2023\\CSE 210\\CSE-210\\prove\\Develop04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micro\\AppData\\Roaming\\NuGet\\NuGet.Config"
